@@ -1,0 +1,15 @@
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\bin\Debug\net7.0\ContructorsAndObjectInitializers1.exe
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\bin\Debug\net7.0\ContructorsAndObjectInitializers1.deps.json
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\bin\Debug\net7.0\ContructorsAndObjectInitializers1.runtimeconfig.json
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\bin\Debug\net7.0\ContructorsAndObjectInitializers1.dll
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\bin\Debug\net7.0\ContructorsAndObjectInitializers1.pdb
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.csproj.AssemblyReference.cache
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.AssemblyInfoInputs.cache
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.AssemblyInfo.cs
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.csproj.CoreCompileInputs.cache
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.dll
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\refint\ContructorsAndObjectInitializers1.dll
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.pdb
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ContructorsAndObjectInitializers1.genruntimeconfig.cache
+D:\.NET\Day2\ContructorsAndObjectInitializers1\ContructorsAndObjectInitializers1\obj\Debug\net7.0\ref\ContructorsAndObjectInitializers1.dll
