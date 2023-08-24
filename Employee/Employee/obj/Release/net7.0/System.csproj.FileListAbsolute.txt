@@ -1,0 +1,15 @@
+D:\.NET\Day2\Employee\Employee\bin\Release\net7.0\System.exe
+D:\.NET\Day2\Employee\Employee\bin\Release\net7.0\System.deps.json
+D:\.NET\Day2\Employee\Employee\bin\Release\net7.0\System.runtimeconfig.json
+D:\.NET\Day2\Employee\Employee\bin\Release\net7.0\System.dll
+D:\.NET\Day2\Employee\Employee\bin\Release\net7.0\System.pdb
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.csproj.AssemblyReference.cache
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.AssemblyInfoInputs.cache
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.AssemblyInfo.cs
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.csproj.CoreCompileInputs.cache
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.dll
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\refint\System.dll
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.pdb
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\System.genruntimeconfig.cache
+D:\.NET\Day2\Employee\Employee\obj\Release\net7.0\ref\System.dll
